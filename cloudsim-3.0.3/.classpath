@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="examples"/>
+	<classpathentry kind="src" path="sources"/>
+	<classpathentry kind="lib" path="jars/cloudsim-3.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="jars/cloudsim-3.0.3.jar"/>
+	<classpathentry kind="lib" path="jars/cloudsim-examples-3.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="jars/cloudsim-examples-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tianzhangh/Documents/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tianzhangh/Documents/cloudsim-3.0.3/lib/gral-core-0.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tianzhangh/Documents/cloudsim-3.0.3/lib/VectorGraphics2D-0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tianzhangh/Documents/cloudsim-3.0.3/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tianzhangh/Documents/cloudsim-3.0.3/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
